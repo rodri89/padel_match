@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322295587015",
+    "project_id": "padelmatch-151da",
+    "storage_bucket": "padelmatch-151da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322295587015:android:86898f8a3277afa4c35ee2",
+        "android_client_info": {
+          "package_name": "com.padelmatch.tbgroup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRDD-bOf_obFavijCRLb5glZqhn75dyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

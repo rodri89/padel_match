@@ -33,6 +33,8 @@ local.properties
 .cxx/
 *.keystore
 !debug.keystore
+*.jks
+android/keystore.properties
 .kotlin/
 
 # node.js
@@ -73,3 +75,13 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Credenciales locales (contiene la password de la base)
+.info
+
+# Build artifacts (aab/apk) — no van al repo, se generan con gradlew
+android/app/release/
+
+# Supabase CLI local state
+supabase/.temp/
+supabase/.branches/
